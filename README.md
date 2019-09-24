@@ -16,7 +16,6 @@ Let's compare booking flights and buying a pizza online. Both need a price, extr
 
 ---
 
----
 ### Realife applications.
 
 * Voice assisted appointment booking
